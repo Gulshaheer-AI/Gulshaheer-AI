@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Gulshaheer 👋
 
-<!--
-**Gulshaheer-AI/Gulshaheer-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineering Student | Python, C++ & Backend | Strong focus on OOP & DSA**
 
-Here are some ideas to get you started:
+I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bridging the gap between artificial intelligence and backend architecture. I focus on writing clean, object-oriented code and am actively expanding my knowledge in Data Structures & Algorithms. I am currently open to backend and AI-focused internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Tech Stack
+* **Languages:** Python, C++
+* **Backend & API:** FastAPI, RESTful architecture
+* **AI & Automation:** Google Generative AI (Gemini), Selenium, Edge-TTS
+* **Core Skills:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Git/GitHub
+
+### 🚀 Featured Projects
+
+* **[Rexa - Custom AI Voice Assistant](https://github.com/Gulshaheer-AI/Rexa-Voice-Assistant)**
+  A hybrid local/cloud voice assistant featuring offline wake-word detection (Porcupine), voice-biometric security, modular skill routing, and LLM-powered conversation. 
+* **[Gemini WhatsApp Autoresponder](https://github.com/Gulshaheer-AI/WhatsApp-Autoreply-bot)**
+  An automated, persona-driven WhatsApp bot built with Selenium and Gemini. It features context-aware memory, smart group-chat filtering, and dynamic message batching.
+* **[Python OOP Text-Based RPG](https://github.com/Gulshaheer-AI/OOP-Text-RPG)**
+  A terminal-based game engine built entirely in standard Python to demonstrate core OOP principles, including inheritance, polymorphism, and encapsulated state management.
+
+### 🌱 Currently Learning
+* **Advanced AI Systems:** Diving deep into Agentic AI and building autonomous, multi-step AI workflows.
+* **Comprehensive Backend Architecture:** Expanding beyond individual frameworks to master full-scale backend development, system design, and database management.
+* **Applied AI Engineering:** Actively planning and developing complex, real-world projects that push the limits of modern LLMs.
+
+### 📫 Let's Connect
+* **LinkedIn:** [www.linkedin.com/in/gulshaheer-aslam-195445254]
+* **Email:** [gullshaheer@gmail.com]

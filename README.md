@@ -1,8 +1,8 @@
 # Hi there, I'm Gulshaheer 👋
 
-**AI Engineering Student | Python, C++ & Backend | Strong focus on OOP & DSA**
+**AI Engineering Student | Python, Backend, Agentic AI |
 
-I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bridging the gap between artificial intelligence and backend architecture. I focus on writing clean, object-oriented code and am actively expanding my knowledge in Data Structures & Algorithms. I am currently open to backend and AI-focused internships.
+I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bridging the gap between artificial intelligence and backend architecture. I focus on creating AI based projects and systems. I am currently open to backend and AI-focused internships.
 
 ### 🛠️ Current Tech Stack
 * **Languages:** Python, C++

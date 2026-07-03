@@ -7,8 +7,8 @@ I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bri
 ### 🛠️ Current Tech Stack
 * **Languages:** Python, C++
 * **Backend & API:** FastAPI, RESTful architecture
-* **AI & Automation:** Google Generative AI (Gemini), Selenium, Edge-TTS
-* **Core Skills:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Git/GitHub
+* **AI & Automation:** Agentic AI
+
 
 ### 🚀 Featured Projects
 

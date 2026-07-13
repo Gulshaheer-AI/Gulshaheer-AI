@@ -5,9 +5,9 @@
 I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bridging the gap between artificial intelligence and backend architecture. I focus on creating AI based projects and systems. I am currently open to backend and AI-focused internships.
 
 ### 🛠️ Current Tech Stack
-* **Languages:** Python, C++
-* **Backend & API:** FastAPI, RESTful architecture
-* **AI & Automation:** Agentic AI
+* **Languages:** Python, C++(basic)
+* **Backend & API:** FastAPI,Pydantic Data Validation,Postgresql,JWT Authentication&Hashing,RESTful architecture
+* **AI & Automation:** RAG,LangGraph,AgenticAI
 
 
 ### 🚀 Featured Projects

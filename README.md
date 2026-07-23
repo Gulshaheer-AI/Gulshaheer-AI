@@ -6,8 +6,8 @@ I am an aspiring AI Engineer based in Faisalabad, Pakistan, passionate about bri
 
 ### 🛠️ Current Tech Stack
 * **Languages:** Python, C++(basic)
-* **Backend & API:** FastAPI,Pydantic Data Validation,Postgresql,JWT Authentication&Hashing,RESTful architecture
-* **AI & Automation:** RAG,LangGraph,AgenticAI
+* **Backend & API:** FastAPI, Pydantic Data Validation, Postgresql, JWT Authentication&Hashing, RESTful architecture
+* **AI & Automation:** RAG, LangGraph, Vector databases, AgenticAI
 
 
 ### 🚀 Featured Projects
